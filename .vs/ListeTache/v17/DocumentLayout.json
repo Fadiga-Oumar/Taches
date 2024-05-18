@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fadiga\\ListeTache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|c:\\users\\fadiga\\listetache\\listetache\\pages\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|c:\\users\\fadiga\\listetache\\listetache\\pages\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|c:\\users\\fadiga\\listetache\\listetache\\pages\\scoreboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\scoreboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\listetache\\pages\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|c:\\users\\fadiga\\listetache\\listetache\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\listetache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\listetache\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Migrations\\20240516010814_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:ListeTache\\Migrations\\20240516010814_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\listetache\\models\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\models\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|c:\\users\\fadiga\\listetache\\listetache\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:ListeTache\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|C:\\Users\\Fadiga\\ListeTache\\listetache\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D40CBCBE-591C-4872-9C4B-0E8FB64CD9C3}|ListeTache\\ListeTache.csproj|solutionrelative:listetache\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fadiga\\ListeTache\\ListeTache\\ListeTache.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ListeTache\\ListeTache.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scoreboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Scoreboard.cshtml",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Scoreboard.cshtml",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Scoreboard.cshtml",
+              "RelativeToolTip": "ListeTache\\Pages\\Scoreboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:16:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index2.cshtml.cs",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Index2.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index2.cshtml.cs",
+              "RelativeToolTip": "ListeTache\\Pages\\Index2.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:48:20.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index2.cshtml",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index2.cshtml",
+              "RelativeToolTip": "ListeTache\\Pages\\Index2.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:47:35.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ListeTache\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:07:19.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Program.cs",
+              "RelativeDocumentMoniker": "ListeTache\\Program.cs",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Program.cs",
+              "RelativeToolTip": "ListeTache\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:42:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index1.cshtml",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index1.cshtml",
+              "RelativeToolTip": "ListeTache\\Pages\\Index1.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:30:16.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\appsettings.json",
+              "RelativeDocumentMoniker": "ListeTache\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\appsettings.json",
+              "RelativeToolTip": "ListeTache\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T22:33:31.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tache.cs",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Models\\Tache.cs",
+              "RelativeDocumentMoniker": "ListeTache\\Models\\Tache.cs",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Models\\Tache.cs",
+              "RelativeToolTip": "ListeTache\\Models\\Tache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:27:34.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index1.cshtml.cs",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Index1.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index1.cshtml.cs",
+              "RelativeToolTip": "ListeTache\\Pages\\Index1.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:30:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListeTache\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ListeTache\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T23:21:02.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ListeTache\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ListeTache\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:28:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240516010814_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Migrations\\20240516010814_initialCreate.cs",
+              "RelativeDocumentMoniker": "ListeTache\\Migrations\\20240516010814_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\Migrations\\20240516010814_initialCreate.cs",
+              "RelativeToolTip": "ListeTache\\Migrations\\20240516010814_initialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:08:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListeTache.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\ListeTache.csproj.user",
+              "RelativeDocumentMoniker": "ListeTache\\ListeTache.csproj.user",
+              "ToolTip": "C:\\Users\\Fadiga\\ListeTache\\ListeTache\\ListeTache.csproj.user",
+              "RelativeToolTip": "ListeTache\\ListeTache.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-05-16T00:28:40.7Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿@page
+@model ListeTache.Pages.Index1Model
+@{
+    ViewData["Title"] = "Liste des tâches";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nom</th>
+            <th>Tâche terminée</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model.Tasks)
+        {
+            <tr>
+                <td>@task.TacheId</td>
+                <td>@task.Titre</td>
+                <td>@(task.TacheTerminee ? "✅" : "❌")</td>
+            </tr>
+        }
+    </tbody>
+</table>

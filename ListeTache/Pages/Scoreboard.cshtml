@@ -1,0 +1,32 @@
+﻿@page
+@model ListeTache.Pages.ScoreboardModel
+@{
+    ViewData["Title"] = "Tableau des scores";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (Model.UserScores.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Nom d'utilisateur</th>
+                <th>Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var (userName, score) in Model.UserScores.OrderByDescending(x => x.Score))
+            {
+                <tr>
+                    <td>@userName</td>
+                    <td>@score</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Aucun score enregistré pour le moment.</p>
+}
